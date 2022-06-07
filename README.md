@@ -17,4 +17,13 @@ The current ``dashing-devel`` branch works with ROS Dashing.
 
 - <sup>1</sup>Velodyne: http://www.ros.org/wiki/velodyne
 - <sup>2</sup>ROS: http://www.ros.org
-- <sup>3</sup>`Velodyne high definition 3D LIDARs`: http://www.velodynelidar.com/lidar/lidar.aspx
+- <sup>3</sup>`Velodyne fdfhigh definition 3D LIDARs`: http://www.velodynelidar.com/lidar/lidar.aspx
+
+---
+
+# Instruções
+
+- IP: 192.168.1.201
+- Library `pcap` is required
+- ROS2 package `diagnostic_updater is required
+- Used only on foxy distro

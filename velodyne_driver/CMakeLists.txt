@@ -60,7 +60,7 @@ rclcpp_components_register_nodes(velodyne_driver
 install(DIRECTORY include/${PROJECT_NAME}/
   DESTINATION include/${PROJECT_NAME})
 
-install(DIRECTORY config launch
+install(DIRECTORY config launch rviz
   DESTINATION share/${PROJECT_NAME})
 install(PROGRAMS src/vdump
   DESTINATION lib/${PROJECT_NAME})
