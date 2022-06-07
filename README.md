@@ -25,5 +25,5 @@ The current ``dashing-devel`` branch works with ROS Dashing.
 
 - IP: 192.168.1.201
 - Library `pcap` is required
-- ROS2 package `diagnostic_updater is required
+- ROS2 package `diagnostic_updater` is required
 - Used only on foxy distro
